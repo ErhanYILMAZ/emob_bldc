@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BLDC.PcbDoc   13/01/2020  18:48:14
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : BLDC-Plated.TXT
+ASCII Non-Plated RoundHoles File : BLDC-NonPlated.TXT
+EIA File   : BLDC.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          636              1417.05 mm (55.79 Inch)
+T2        0.4mm (15.748mil)        Round          2                1.27 mm (0.05 Inch)
+T3        0.9mm (35.433mil)        Round          25               165.72 mm (6.52 Inch)
+T4        1.016mm (40mil)          Round          16               44.02 mm (1.73 Inch)
+T5        1.05mm (41.339mil)       Round          4                32.30 mm (1.27 Inch)
+T6        2.54mm (100mil)          Round          3                28.50 mm (1.12 Inch)
+T7        2.45mm (96.457mil)       Round          3         NPTH   106.69 mm (4.20 Inch)
+---------------------------------------------------------------------------
+Totals                                            689              1795.55 mm (70.69 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

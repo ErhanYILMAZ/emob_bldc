@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\erhan\Desktop\emob_bldc\design\hardware\altium\BLDC.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=bldc-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=bldc-nonplated.txt|LayerPairs=gtl,gbl

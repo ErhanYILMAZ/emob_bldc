@@ -1,0 +1,552 @@
+*************************************************************
+FileName = BLDC.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : BLDC.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : BLDC.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D54
+    D56
+    D57
+    D58
+    D59
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : BLDC.G2
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D42
+    D46
+    D54
+    D56
+    D57
+    D58
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : BLDC.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D22
+    D39
+    D40
+    D41
+    D42
+    D51
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BLDC.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D22
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BLDC.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BLDC.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D40
+    D41
+    D50
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : BLDC.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BLDC.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BLDC.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D84
+    D88
+    D89
+    D90
+    D96
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BLDC.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D22
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BLDC.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D41
+    D73
+    D74
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : M5 Assembly Top
+      File : BLDC.GM5
+
+    Adding Layer      : M5 Assembly Top
+
+
+Used DCodes :
+    D73
+    D74
+    D75
+    D79
+    D83
+    D133
+    D134
+    D135
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : M6 Assembly Bottom
+      File : BLDC.GM6
+
+    Adding Layer      : M6 Assembly Bottom
+
+
+Used DCodes :
+    D74
+    D75
+    D133
+*************************************************************
+
+*************************************************************
+Generating : M13 Component Bodies Top
+      File : BLDC.GM13
+
+    Adding Layer      : M13 Component Bodies Top
+
+
+Used DCodes :
+    D74
+    D136
+    D138
+*************************************************************
+
+*************************************************************
+Generating : M14 Component Bodies Bottom
+      File : BLDC.GM14
+
+    Adding Layer      : M14 Component Bodies Bottom
+
+
+Used DCodes :
+    D74
+*************************************************************
+
+*************************************************************
+Generating : M15 Courtyards Top
+      File : BLDC.GM15
+
+    Adding Layer      : M15 Courtyards Top
+
+
+Used DCodes :
+    D41
+    D74
+    D75
+    D139
+*************************************************************
+
+*************************************************************
+Generating : M16 Courtyards Bottom
+      File : BLDC.GM16
+
+    Adding Layer      : M16 Courtyards Bottom
+
+
+Used DCodes :
+    D74
+    D139
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : BLDC.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D41
+    D73
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : BLDC.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D135
+    D140
+*************************************************************
+

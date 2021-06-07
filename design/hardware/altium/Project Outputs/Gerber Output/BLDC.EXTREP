@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: BLDC.GBR   13/01/2020  18:54:06
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.G1                 GND                                     
+.G2                 PWR                                     
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM5                M5 Assembly Top                         
+.GM6                M6 Assembly Bottom                      
+.GM13               M13 Component Bodies Top                
+.GM14               M14 Component Bodies Bottom             
+.GM15               M15 Courtyards Top                      
+.GM16               M16 Courtyards Bottom                   
+.GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
+------------------------------------------------------------------------------------------

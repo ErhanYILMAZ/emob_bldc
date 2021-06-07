@@ -1,0 +1,96 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\erhan\Desktop\emob_bldc\design\hardware\altium\BLDC.PcbDoc
+Date     : 16/12/2019
+Time     : 17:24:45
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.406mm) (PreferredHoleWidth=0.406mm) (MinWidth=0.5mm) (MaxWidth=0.813mm) (PreferedWidth=0.813mm) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=5mm) (Preferred=0.5mm) (InNetClass('pwr'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (OnCopper and InPolygon),(IsBoardCutoutRegion)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=2.54mm) (Preferred=0.203mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.305mm) (PreferredHoleWidth=0.203mm) (MinWidth=0.483mm) (MaxWidth=0.61mm) (PreferedWidth=0.508mm) (IsVia and InAnyComponent)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=2.54mm) (PreferredHoleWidth=0.254mm) (MinWidth=0.5mm) (MaxWidth=5.08mm) (PreferedWidth=0.508mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (IsVia and InAnyComponent)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.127mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.178mm) (Max=25.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InPolygon),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (InPolygon),(All)
+   Violation between Polygon Region (0 hole(s)) Top Layer and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (1 hole(s)) Top Layer and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (30 hole(s)) Bottom Layer and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (107 hole(s)) PWR and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (110 hole(s)) GND and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (30 hole(s)) Bottom Layer and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (107 hole(s)) PWR and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (110 hole(s)) GND and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (0 hole(s)) Top Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (107 hole(s)) PWR
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (107 hole(s)) PWR
+Rule Violations :11
+
+Processing Rule : Clearance Constraint (Gap=1.016mm) (InPadClass('MTG')),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (IsVia),(IsThruPin)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (OnCopper and InPolygon),(IsKeepOut)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.196mm) (InPadClass('U1')),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 11
+Time Elapsed        : 00:00:14
